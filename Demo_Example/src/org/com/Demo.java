@@ -14,7 +14,8 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       Demo demo=new Demo();
-      demo.add(a, b);
+      //demo.add(a, b);
+      System.out.println("Addition of two integers :"+demo.add(a, b));
 	}
 
 }
